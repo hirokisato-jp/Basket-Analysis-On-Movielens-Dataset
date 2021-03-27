@@ -5,8 +5,8 @@ As I was drawn into recommendation system, my professor introduced me to a techn
 
 ## Concept / Programming Language / Libraries used
 Python.  
-Pandas. 
-mlexents.  
+Pandas.   
+mlextends.  
 Association Analysis.  
 Apriori Algorithm.  
 ## What is Association Analysis?
